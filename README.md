@@ -1,6 +1,7 @@
 # HbA1C ile Tahmini Ortalama Kan Şekeri Seviyesi
 HbA1C, diyabet hastalarının kontrolleri ve kan şekeri düzeylerinin araştırılması için yapılan, son 2 ila 3 aydaki ortalama kan şekeri seviyesini yansıtan bir kan testidir.
 
+## Java ile geliştirilen android projesidir.
 
 
 <p float="left">
